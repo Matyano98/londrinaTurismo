@@ -18,7 +18,7 @@
     <p>A **Catedral de Londrina** tem uma história interessante: inaugurada em 1934, a primeira versão era de madeira e simples. Com o crescimento da população, uma nova igreja foi construída, mas a obra foi interrompida várias vezes, sendo inaugurada em 1943. Em 1970, a terceira versão da catedral foi construída, mantendo apenas uma parte da estrutura anterior. Ela abriga os restos mortais de Dom Geraldo Fernandes Bijos, primeiro Bispo e Arcebispo da cidade.<br>
     Se você curte turismo religioso, Londrina tem diversas opções, com templos de diferentes crenças, devido à sua rica imigração. Além da Catedral, visite o <strong>Templo Budista Honpa Hongwanji</strong>, a <strong>Mesquita Muçulmana Rei Faiçal</strong>, e a <strong>Igreja Metodista</strong>, que é um patrimônio histórico da cidade. A cidade reflete sua diversidade religiosa com templos católicos, evangélicos, espíritas e outros credos.<br>
     As missas na Catedral acontecem às quartas (12h), sextas (15h), sábados (19h) e domingos (7h30, 9h, 10h30 e 19h).</p>
-    <li> – Rota do Café
+    <li> – Rota do Café 
     <p>E para finalizar a <strong>Rota do Café</strong> é um dos principais pontos turísticos de Londrina, promovendo a rica tradição cafeeira do Paraná. Ela oferece roteiros que incluem visitas a fazendas históricas, centros culturais e restaurantes ligados à cultura do café, com destaque para a degustação da bebida, símbolo do Brasil.<br>
     Um dos lugares mais recomendados para isso é o <strong>Armazém Café</strong>, um ambiente aconchegante que serve deliciosos cafés, como o produzido pela Fazenda Palmeira. O Armazém Café está localizado na Rua Belo Horizonte, 701, e funciona de segunda a sábado das 10h às 19h, e domingo das 14h às 19h.</p>
 </ol>
